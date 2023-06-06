@@ -1,0 +1,36 @@
+序号	提交答卷时间	所用时间	来源	来源详情	来自IP	1."复辟"中辟的读音是？（不知道填“不知道”即可。回答方法：拼音之后跟一个数字表示声调：比如：一的读音是“yi1”, 黄的读音是“huang2”, 晚的读音是“wan3”, 大的读音是“da4”）。	2.你觉得其他人上一题可能会回答什么？（如果有多个请用逗号隔开： 比如一种答案可能是：“yi1,er4,san1”）	3."果脯"中脯的读音是？（不知道填“不知道”即可。回答方法：拼音之后跟一个数字表示声调：比如：一的读音是“yi1”, 黄的读音是“huang2”, 晚的读音是“wan3”, 大的读音是“da4”）。	4.你觉得其他人上一题可能会回答什么？（如果有多个请用逗号隔开： 比如一种答案可能是：“yi1,er4,san1”）	5."刽子手"中刽的读音是？（不知道填“不知道”即可。回答方法：拼音之后跟一个数字表示声调：比如：一的读音是“yi1”, 黄的读音是“huang2”, 晚的读音是“wan3”, 大的读音是“da4”）。	6.你觉得其他人上一题可能会回答什么？（如果有多个请用逗号隔开： 比如一种答案可能是：“yi1,er4,san1”）	7."飞来横祸"中横的读音是？（不知道填“不知道”即可。回答方法：拼音之后跟一个数字表示声调：比如：一的读音是“yi1”, 黄的读音是“huang2”, 晚的读音是“wan3”, 大的读音是“da4”）。	8.你觉得其他人上一题可能会回答什么？（如果有多个请用逗号隔开： 比如一种答案可能是：“yi1,er4,san1”）	9."混淆"中混的读音是？（不知道填“不知道”即可。回答方法：拼音之后跟一个数字表示声调：比如：一的读音是“yi1”, 黄的读音是“huang2”, 晚的读音是“wan3”, 大的读音是“da4”）。	10.你觉得其他人上一题可能会回答什么？（如果有多个请用逗号隔开： 比如一种答案可能是：“yi1,er4,san1”）	11."拈花惹草"中拈的读音是？（不知道填“不知道”即可。回答方法：拼音之后跟一个数字表示声调：比如：一的读音是“yi1”, 黄的读音是“huang2”, 晚的读音是“wan3”, 大的读音是“da4”）。	12.你觉得其他人上一题可能会回答什么？（如果有多个请用逗号隔开： 比如一种答案可能是：“yi1,er4,san1”）	13."滂沱"中滂的读音是？（不知道填“不知道”即可。回答方法：拼音之后跟一个数字表示声调：比如：一的读音是“yi1”, 黄的读音是“huang2”, 晚的读音是“wan3”, 大的读音是“da4”）。	14.你觉得其他人上一题可能会回答什么？（如果有多个请用逗号隔开： 比如一种答案可能是：“yi1,er4,san1”）	15."眩晕"中晕的读音是？（不知道填“不知道”即可。回答方法：拼音之后跟一个数字表示声调：比如：一的读音是“yi1”, 黄的读音是“huang2”, 晚的读音是“wan3”, 大的读音是“da4”）。	16.你觉得其他人上一题可能会回答什么？（如果有多个请用逗号隔开： 比如一种答案可能是：“yi1,er4,san1”）	17."楔子"中楔的读音是？（不知道填“不知道”即可。回答方法：拼音之后跟一个数字表示声调：比如：一的读音是“yi1”, 黄的读音是“huang2”, 晚的读音是“wan3”, 大的读音是“da4”）。	18.你觉得其他人上一题可能会回答什么？（如果有多个请用逗号隔开： 比如一种答案可能是：“yi1,er4,san1”）	19."倾轧"中轧的读音是？（不知道填“不知道”即可。回答方法：拼音之后跟一个数字表示声调：比如：一的读音是“yi1”, 黄的读音是“huang2”, 晚的读音是“wan3”, 大的读音是“da4”）。	20.你觉得其他人上一题可能会回答什么？（如果有多个请用逗号隔开： 比如一种答案可能是：“yi1,er4,san1”）
+1	N/A	N/A	N/A	N/A	N/A	bi4	pi4	fu3	pu3	gui4	kuai4,hui4	heng4	heng1	hun4	hun3	zhan1	nian1	pang2	pang1	yun1	yun4	xie1	qi1	zha4	ya1
+2	N/A	N/A	N/A	N/A	N/A	bi4	pi4	fu3	pu3	kui4	kuai4	heng4	heng2	hun3	hun2	nian1	zhan1	pang1	pang2	yun1	yun4	xie1	qi4	ya4	ga2,zha1
+3	N/A	N/A	N/A	N/A	N/A	pi4	bi4,pi4	pu3	pu3,fu3	gui4	gui4,kuai4	heng2	heng2,heng4	hun3	hun3,hun4	nian1	nian1	pang2	pang2,bang4	yun1	yun1,hun1	xie1	xie1,qi4	ya1	ya1,zhe2
+4	N/A	N/A	N/A	N/A	N/A	bi4	pi4	fu3	pu2	gui4	gui4	heng4	heng2	hun4	hun3	nian1	nian1	pang1	pang2	yun4	yun1	xie1	xie2	ya4	zha2
+5	N/A	N/A	N/A	N/A	N/A	bi4	pi4	bu3	pu3	gui4	kuai 4	heng4	heng 2	xiao3	xiao 2	不知道	zhan1	pang 2	不知道	yun1	yun 4	xie1	qi4	不知道	ya4
+6	N/A	N/A	N/A	N/A	N/A	bi4	pi4	fu3	pu3	gui4	kuai4	heng4	heng2	hun4	hun3	nian1	zhan1	pang2	bang2	yun1	yun4	xie1	qi1	ya4	zha1
+7	N/A	N/A	N/A	N/A	N/A	bi1	bi1	pu3	pu3	hui4	kuai4	heng2	heng2	hun4	hun4	nian1	nian1	pang2	pang2	yun1	yun1	xie1	xie1	ya4	ya4
+8	N/A	N/A	N/A	N/A	N/A	pi4	bi4	fu3	pu3	gui4	kuai4	heng4	heng1	hun2	hun3	zhen1	zhan1	pang1	pang2	yun4	yun1	xie1	qi4	ya4	zha1
+9	N/A	N/A	N/A	N/A	N/A	pi4	pi4	pu3	pu4	kuai4	hui4	heng2	heng4	hun3	hun4	zhan1	zhan4	peng2	pang2	yun1	yun4	qi4	qie4	ya4	zha1
+10	N/A	N/A	N/A	N/A	N/A	pi4	pi4,bi4	pu3	pu3	kui4	kuai4,hui4,kui4	heng2	heng4,heng2	hun3	hun3	zhan1	zhan1	pang2	pang2	yun1	yun1	xie1	xie1,xie4,qie4,qie1,qi4	zha1	zha1
+11	N/A	N/A	N/A	N/A	N/A	pi4	bi4	pu3	pu3,bu3	kuai4	gui4,kuai4	heng2	heng2	hun4	hun3,hun4	zhan1	zhan1,zhang1	pang2	pang2,peng2	yun1	yun1	xie4	qi4,xie4	ya1	ya1,ya4,zha1
+12	N/A	N/A	N/A	N/A	N/A	bi4	bi4,pi4	fu3	pu3,fu3	gui4	gui4	heng4	heng4,heng2	hun4	hun4,hun3	nian1	nian1	pang1	pang1	yun4	yun4,yun1	xie1	xie1	ya4	ya4
+13	N/A	N/A	N/A	N/A	N/A	pi4	pi4,bi4	fu3	fu3,pu3	kuai4	kuai4,gui4	heng2	heng2,heng4	hun4	hun4,hun3	zhan1	zhan1	pang1	pang1,pang2	yun1	yun1	xie1	xie1,qi1	zhe2	zhe2,zha2
+14	N/A	N/A	N/A	N/A	N/A	bi4	pi4	fu3	pu3	gui4	kuai4	heng2	heng2	hun4	hun3	nian1	zhan1	pang1	pang1,pang2	yun1	yun4	xie4	qi4	ya4	ya4
+15	N/A	N/A	N/A	N/A	N/A	bi4	pi4	fu3	pu3	gui4	kuai4	heng4	heng2	hun4	hun3	nian1	zhan1	pang2	不知道	xuan4	xuan2	qie4	qi4	ya4	ya1
+16	N/A	N/A	N/A	N/A	N/A	pi4	bi4	fu3	pu3	gui4	kuai4	heng4	heng2	hun4	hun3	nian1	zhan1	pang1	不知道	yun1	不知道	不知道	不知道	不知道	不知道
+17	N/A	N/A	N/A	N/A	N/A	bi4	pi4	fu3	bu3	kuai4	kui4	heng4	heng2	hun4	hun3	zhan1	nian1	pang2	pang2	yun1	yun1	xie1	qi4	zha1	zha1
+18	N/A	N/A	N/A	N/A	N/A	bi4	pi4	fu3	pu3	gui4	kuai4	heng4	heng3	hun3	hun2	nian1	zhan1	pang1	pang2	yun1	yun4	xie1	qi4	ya4	ya1
+19	N/A	N/A	N/A	N/A	N/A	bi4	bi4,pi4	fu3	fu3, pu3	gui4	gui4,hui4,kuai4	heng4	heng4,heng2	hun4	hun4,hun2,hun3	nian1	nian1,zhan1	pang1	pang1,pang2,bang4	xuan4	xuan4,xuan2	xie1	xie1,qi4	ya4	ya4,zha2,zha1
+20	N/A	N/A	N/A	N/A	N/A	bi4	pi4	fu3	pu3	gui4	kuai4	heng2	heng4	hun4	hun3	nian1	zhan1	pang1	pang2	yun1	yun4	xi1	qi4	ya4	zha2
+21	N/A	N/A	N/A	N/A	N/A	bi4	pi4	pu3	fu3	kuai4	gui4	heng4	heng2	hun4	hun3	nian1	zhan1	pang2	bang4	yun1	yun1	xie1	qi4	ya4	zha1
+22	N/A	N/A	N/A	N/A	N/A	bi4	bi4,pi4	pu2	pu2,pu4	gui4	gui4	heng4	heng2,heng4	hun4	hun3,hun4	zhan1	zhan1	pang1	pang1	yun1	yun1,yun4	qi4	qi4,qie4	zha4	zha4
+23	N/A	N/A	N/A	N/A	N/A	bi4	pi4,bi4	fu3	fu3,pu3	gui4	gui4	heng4	heng4,heng2	hun4	hun3,hun4	nian1	nian1,dian1,zhan1	pang1	pang1,pang2	yun4	yun4,yun1	xie1	xie1,qi4	ya4	ya4
+24	N/A	N/A	N/A	N/A	N/A	bi4	bi4,pi4	fu3	pu3,fu3	gui4	gui4,kuai4	heng4	heng4,heng2	hun4	hun4,hun3	nian1	nian1,zhan1	pang1	pang1,pang2	yun1	yun1	xie1	xie1,qi4	ya4	ya4,ya1
+25	N/A	N/A	N/A	N/A	N/A	pi2	pi2	pu3	pu3	gui4	gui4	heng2	heng2	hun4	hun4	zhan1	zhan1	pang2	pang2	yun1	yun1	xie1	xie1	ya4	ya4
+26	N/A	N/A	N/A	N/A	N/A	pi4	bi4	pu3	pu2	kuai4	hui4	heng4	heng2	hun4	hun3	zhan1	nian1	pang2	pang1	yun1	yun4	qi4	qie4	ya4	zha1
+27	N/A	N/A	N/A	N/A	N/A	bi4	bi4,pi4	pu3	pu3,fu3	gui4	gui4,kuai4	heng4	heng3,heng4	hun4	hun4,hun3	nian1	nian1,zhan1	pang3	pang3	yun1	yun1,yun4	qi1	qi1	不知道	nian3
+28	N/A	N/A	N/A	N/A	N/A	pi4	pi4	fu3	fu3	kuai4	gui4	heng4	heng4	hun3	hun3	zhan1	zhan1	pang1	pang1	xuan4	xuan4	xie1	xie1	ya4	ya4
+29	N/A	N/A	N/A	N/A	N/A	bi4	bi4,pi4	pu3	pu3,fu3	kuai4	kuai4,hui	heng4	heng4,heng2	hun4	hun4,hun3	zhan1	zhan1	pang2	pang2	yun1	yun1	qi4	qi4,qie4	zha1	zha1,zha2
+30	N/A	N/A	N/A	N/A	N/A	pi4	pi4	pu2	pu2	gui4	kuai4	heng2	heng2	hun3	hun3	nian1	nian1	pang1	pang2	yun1	yun1	xie1	qi1	ya4	ya4
+31	N/A	N/A	N/A	N/A	N/A	bi4	pi4	bu3	pu3	kui4	hui4	heng4	heng2	hun3	hun4	zhan1	zhan1	pang2	pang2	yun1	yun1	xie1	qi1	ya4	ya4
+32	N/A	N/A	N/A	N/A	N/A	bi4	bi4,pi4	fu3	fu3,pu3	gui4	kuai4	heng4	heng2,heng4	hun4	hun4	nian1	nian1,zhan1	pang2	pang2	yun4	yun4,yun1	xie1	xie1,qi4	zhe2	zhe2,zha1
+33	N/A	N/A	N/A	N/A	N/A	bi4	pi4	fu3	pu3	hui4	kuai4,hui4	heng4	heng2,heng4	hun4	hun4	nian1	zhan1,nian1	pang2	pang2	yun1	yun1,yun4	xie1	xie1,qi4	ya4	ya4,zha1
+34	N/A	N/A	N/A	N/A	N/A	pi4	bi4	pu3	bu3	gui4	kuai4	heng2	heng2	hun3	hun4	nian1	zhan1	Pang2	pang2	yun1	yun4	xie1	qi4	ya4	ya4
+35	N/A	N/A	N/A	N/A	N/A	pi4	bi4	pu3	fu3	kuai4	gui4	heng4	heng2	hun3	hun3	zhan1	nian2	pang2	pang2	xuan4	xuan2	qi4	xie4	ya4	ya4

@@ -1,0 +1,127 @@
+序号	提交答卷时间	所用时间	来源	来源详情	来自IP	2、您认为发表著名的“铁幕演说”的人是？	3、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	4、在西方，中世纪的新年是__月__日？（答案例：13月32日）	5、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	6、"内阁"作为国家的最高决策机关和行政权力机关创立于什么朝代？	7、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	8、请问哪个城市被称为"六朝古都"？	9、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	10、"自由女神像”是哪个国家送给美国的礼物?	11、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	12、我国从哪个朝代起，最高统治者称"王"?	13、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	14、请问三国演义中蜀国的五虎大将里被称为常胜将军的是谁?	15、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	16、唐代人可以称"父亲"为?	17、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	18、唐太宗的"太宗"指的是他的?	19、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	20、请问坦克是哪个国家发明的?	21、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	22、我国历史上第一部编年体史书是《______》?（如答案应为《xxx》则填：xxx）	23、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开	24、我国西晋的第一代皇帝名叫?	25、请问您认为其他人对上一题的回答可能是？如有多个答案请用英文逗号隔开
+1	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,Marshall	Jan1	不知道	Ming	Song	Nanjing	Nanjing	France	France	Zhou	Shang	ZhaoYun	ZhaoYun	fu	不知道	temple	temple	Germany	UK	ZuoZhuan	ZuoZhuan	不知道	不知道
+2	N/A	N/A	N/A	N/A	N/A	Churchill	Truman,斯大林,Roosevelt	Apr1	Jan1,Dec26	Ming	Qing	Nanjing	Xi'an,Beijing,Luoyang	France	UK	Shang	Zhou	ZhaoYun	GuanYu,ZhangFei	ye2	die	temple	posthumous	UK	US,SovietUnion,Germany	Chunqiu	Shiji	yan	zhao,yi
+3	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt	Dec25	Jan1,Dec31	Ming	Tang,Qing	Nanjing	Xi'an,Luoyang	France	UK	Xia	Shang,Zhou	ZhaoYun	不知道	ye2	不知道	temple	posthumous,尊号	UK	US,Germany	Chunqiu	Shiji	yan	yi
+4	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	Dec25	Ming	Ming	Nanjing	Nanjing	France	France	Xia	Xia	不知道	ZhaoYun	ye1	ye1	temple	posthumous	不知道	不知道	ZuoZhuan	ZuoZhuan	yan	zhao
+5	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt,斯大林,奥巴马	Apr1	Jan1	Ming	Tang,汉	Nanjing	Xi'an	France	UK	Shang	Zhou	ZhaoYun	GuanYu	die	die,fu	temple	名字	UK	Germany	ZuoZhuan	二人转	yan	zhao,yi
+6	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,Roosevelt,斯大林	Dec25	不知道	Song	Song,Ming,Qing	Nanjing	Nanjing	France	France,UK,意大利	Tang	Han,魏晋南北朝	ZhaoYun	ZhaoYun	ye1	ye1	posthumous	posthumous,Nianhao	US	US,SovietUnion,UK	ZizhiTongjian	ZizhiTongjian,汉书,Shiji	yi	不知道
+7	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Dec25	Dec25	Ming	Ming	Nanjing	Nanjing	France	France	Qin	Qin	ZhaoYun	ZhaoYun	die	不知道	temple	temple	UK	UK	ZizhiTongjian	ZizhiTongjian	yan	yan
+8	N/A	N/A	N/A	N/A	N/A	Churchill	Marshall	Apr1	Jan1	Ming	Tang	Nanjing	Xi'an	France	UK	Xia	Zhou	ZhaoYun	GuanYu	不知道	不知道	temple	posthumous	UK	US,Germany	Chunqiu	ZizhiTongjian	yan	zhao
+9	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,Roosevelt,Truman	Dec25	Dec25,Jan1	Ming	Ming,Qing,Song	Luoyang	Luoyang,Xi'an,Beijing	France	UK,France,加拿大	Shang	Xia,Shang,Zhou	ZhaoYun	GuanYu,ZhangFei	yan	不知道	temple	posthumous,Nianhao	UK	France,Germany	ZuoZhuan	Shiji	yan	yi,zhao
+10	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Dec25	Jan1	Ming	同上	Nanjing	Nanjing,Beijing	France	同上	Han	同上	ZhaoYun	同上	不知道	不知道	temple	posthumous	Germany	Germany	Chunqiu	同上	不知道	不知道
+11	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	不知道	Ming	0.45	Nanjing	Nanjing	France	80%	Xia	Xia	ZhaoYun	80%	不知道	不知道	temple	temple	UK	UK	ZuoZhuan	40%	yan	yan
+12	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,	Jan1	Jan1,	Ming	Ming	Nanjing	Nanjing,Beijing,Xi'an	France	France, 不知道	不知道	不知道,	ZhaoYun	ZhaoYun, ZhaoYun	die	die	posthumous	Nianhao,	UK	UK,	Chunqiu	Chunqiu, Shiji	zhao	yi,zhao,guang
+13	N/A	N/A	N/A	N/A	N/A	不知道	不知道	不知道	不知道	不知道	不知道	不知道	Xi'an	不知道	France	不知道	不知道	不知道	不知道	不知道	不知道	不知道	不知道	不知道	不知道	不知道	不知道	不知道	不知道
+14	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	Jan1	Jan1	Ming	Qing？	Xi'an	Xi'an	France	France	Qin	Qin	HuangZhong	HuangZhong	阿大	不知道	temple	temple	UK	UK	ZuoZhuan	Shiji	yan	yan
+15	N/A	N/A	N/A	N/A	N/A	Churchill	斯大林	Jan1	Dec25	Ming	Qing	Nanjing	Beijing	France	UK	Zhou	不知道	ZhaoYun	GuanYu	ge	ba	posthumous	temple	US	UK,France	Shiji	ZuoZhuan	不知道	不知道
+16	N/A	N/A	N/A	N/A	N/A	Churchill	Marshall	不知道	不知道	Ming	Qing	Nanjing	Xi'an	France	UK	Shang	不知道	ZhaoYun	不知道	不知道	不知道	temple	不知道	UK	不知道	Chunqiu	Shiji	yan	不知道
+17	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Apr1	Jan1	Ming	Song，Qing	Nanjing	Xi'an	France	UK	Shang	Xia,Qin	ZhaoYun	无	不知道	不知道	temple	帝号	UK	Germany	ZizhiTongjian	Shiji	yan	guang
+18	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	不知道	不知道	无	无	Luoyang	不知道	无	无	Qin	无	无	无	不知道	不知道	posthumous	不知道	不知道	不知道	Shiji	无	无	无
+19	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	不知道	不知道	Ming	Sui;Tang;Song	Luoyang	Xi'an,开封,Nanjing	France	不知道	不知道	Xia,Shang	HuangZhong	ZhaoYun;MaChao	不知道	不知道	temple	posthumous	UK	Germany	ZuoZhuan	Chunqiu	yan	zhao
+20	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Dec25	Jan1	Ming	Ming	Nanjing	Luoyang,开封,Xi'an	France	France,UK	Shang	Xia,Shang,Zhou	ZhaoYun	ZhaoYun	zun	不知道	temple	temple,posthumous,Nianhao	UK	UK,France,Germany,US	Chunqiu	Chunqiu,ZuoZhuan,ZizhiTongjian	yan	yan
+21	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Dec25	Jan1	Ming	Qing	Nanjing	Xi'an,Beijing,沈阳	France	不知道	Zhou	Qin	不知道	不知道	不知道	不知道	posthumous	Nianhao	SovietUnionUK,France		Shiji	不知道	yan	yi
+22	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	不知道	不知道	Ming	西汉	Xi'an	Beijing	France	UK	Zhou	Chunqiuzhanguo	ZhaoYun	MaChao	ye2	ye2	封号	不知道	Germany	US	ZuoZhuan	ZizhiTongjian	zhao	yan,yi
+23	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	不知道	不知道	Ming	Qing	Xi'an	Beijing	France	UK	不知道	Zhou	ZhaoYun	HuangZhong	不知道	不知道	temple	posthumous	UK	Germany	Shiji	ZizhiTongjian	yan	zhao
+24	N/A	N/A	N/A	N/A	N/A	不知道	不知道	不知道	不知道	Ming	不知道	不知道	不知道	不知道	不知道	Zhou	不知道	不知道	不知道	不知道	不知道	temple	posthumous,temple	不知道	不知道	ZizhiTongjian	不知道	不知道	不知道
+25	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Jan1	不知道	Ming	Ming	Nanjing	Beijing	France	不知道	Zhou	不知道	ZhangFei	不知道	zun	不知道	不知道	不知道	UK	France	ZizhiTongjian	Shiji	不知道	不知道
+26	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Apr1	Jan1,Apr1,Dec25	Ming	Ming	Nanjing	Nanjing	UK	不知道	Xia	不知道	ZhaoYun	ZhaoYun	fu	die	temple	temple	UK	不知道	ZizhiTongjian	ZizhiTongjian	yan	zhao,yan
+27	N/A	N/A	N/A	N/A	N/A	不知道	不知道	Jan1	不知道	不知道	不知道	Nanjing	Xi'an,Beijing	不知道	不知道	不知道	不知道	不知道	不知道	fu	不知道	称号	Nianhao	不知道	不知道	不知道	Shiji	不知道	不知道
+28	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	不知道	Ming	不知道	Xi'an	Xi'an,Luoyang	France	France	不知道	Qin,不知道	不知道	不知道	不知道	不知道	太爷爷	不知道	不知道	不知道	Chunqiu	不知道	晋文帝	不知道
+29	N/A	N/A	N/A	N/A	N/A	Marshall	Churchill,Roosevelt	Jan1	Dec31	Ming	Tang,Song,Qing	Xi'an	Beijing,Nanjing,Luoyang	France	UK,Germany	Qin	Han	GuanYu	ZhaoYun,ZhangFei,HuangZhong	fu	不知道	posthumous	Nianhao	Germany	US	ZuoZhuan	Shiji	zhao	yi
+30	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	Jan1	Ming	Ming,Song,Tang,汉	Nanjing	长安,Beijing,Nanjing,Luoyang	France	France,UK	Xia	Xia	ZhaoYun	ZhaoYun,ZhaoYun	ye1	die	posthumous	不知道	Germany	不知道	Chunqiu	不知道	yan	yan
+31	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Jan1	Jan1	Qing	Qing	Nanjing	Nanjing	France	France	不知道	不知道	ZhaoYun	ZhaoYun	不知道	不知道	posthumous	posthumous	US	US	Shiji	不知道	不知道	不知道
+32	N/A	N/A	N/A	N/A	N/A	Churchill	斯大林	Jan1	不知道	Tang	Sui	Nanjing	Beijing	France	UK	Qin	Xia	ZhaoYun	GuanYu	不知道	不知道	posthumous	Nianhao	UK	Germany	ZuoZhuan	ZizhiTongjian	不知道	不知道
+33	N/A	N/A	N/A	N/A	N/A	Truman	麦卡锡	Jan1	Dec25	Ming	Song	Nanjing	Xi'an	France	Germany	Shang	Xia	ZhaoYun	不知道	不知道	不知道	temple	posthumous	Germany	瑞典	Chunqiu	ZizhiTongjian	yan	zhao
+34	N/A	N/A	N/A	N/A	N/A	不知道	不知道	不知道	不知道	Qing	不知道	Luoyang	不知道	UK	不知道	Qin	不知道	陈胜	不知道	fu	fu	posthumous	不知道	US	不知道	Shiji	不知道	不知道	不知道
+35	N/A	N/A	N/A	N/A	N/A	Roosevelt	Roosevelt	Jan1	Jan1	1	1	Nanjing	Nanjing,Xi'an	1	1	Shang	Shang,Xia	1	1	zun	fu,大人	temple	posthumous	UK	Germany	1	1	yan	yan,yi
+36	N/A	N/A	N/A	N/A	N/A	不知道	不知道	不知道	不知道	Ming	Ming,Song	Xi'an	Xi'an	France	UK,France	不知道	不知道	GuanYu	GuanYu	兄	兄	号	号	不知道	不知道	ZuoZhuan	Shiji	不知道	不知道
+37	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,Truman	Apr1	Jan1,Apr1	不知道	不知道	Nanjing	Nanjing	France	France	Zhou	Zhou,Shang	不知道	不知道	ba	ge	temple	temple,posthumous	UK	UK,Germany	Shiji	Shiji	yan	yan,zhao
+38	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	不知道	Ming	Ming	Nanjing	Nanjing	France	France	Shang	Shang	MaChao	GuanYu,ZhangFei,MaChao,HuangZhong,ZhaoYun	fu	令堂	不知道	不知道	UK	UK	ZuoZhuan	ZuoZhuan	不知道	不知道
+39	N/A	N/A	N/A	N/A	N/A	Churchill	Marshall,Roosevelt	不知道	Jan1	Ming	0.6	Beijing	Xi'an	France	95%	Qin	Han	ZhaoYun	50%	ye2	不知道	posthumous	庙号，封号	Germany	日本	Shiji	80%	zhao	yi
+40	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Dec25	Dec25	Ming	Qing	Xi'an	Xi'an	France	China	Xia	Xia	ZhaoYun	关云长	die	fu	temple	temple	Germany	Germany	Shiji	ZizhiTongjian	yan	yan
+41	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	Dec25	Jan1	Ming	Ming	Nanjing	Beijing	Netherlands	Netherlands	Shang	Qin	ZhaoYun	ZhaoYun	不知道	不知道	祖父	爸爸	Germany	中国	Chunqiu	Chunqiu	guang	司马迁
+42	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	8月1日	Jan1	Ming	Qing	Nanjing	Xi'an	Netherlands	UK	Qin	Han	ZhaoYun	刘备	die	ba	temple	posthumous	Germany	US	ZuoZhuan	Shiji	yan	zhao
+43	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	不知道	Tang	Ming	Nanjing	Nanjing	France	UK	Zhou	Zhou,Shang,Xia	ZhaoYun	GuanYu	fu	fu,大	temple	temple,posthumous	UK	UK,Germany	汉书	Shiji	yan	yan
+44	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	12月1日	12月1日	Ming	Ming	Nanjing	Luoyang	France	France	Xia	Xia	ZhaoYun	ZhaoYun,MaChao,HuangZhong	fu	不知道	temple	temple	UK	Germany	Chunqiu	Chunqiu ZizhiTongjian	zhao	zhao
+45	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	不知道	Jan1	Ming	Song	Nanjing	Xi'an,Beijing,Luoyang	France	France	Shang	Zhou	MaChao	MaChao	不知道	不知道	temple	不知道	UK	Germany	Chunqiu	ZuoZhuan	yan	不知道
+46	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Dec25	12月30日	Ming	Qing,Song	Nanjing	Nanjing	France	UK	Xia	Xia	ZhaoYun	不知道	ye1	ye1,fu	temple	90	不知道	不知道	Chunqiu	Shiji,ZizhiTongjian	不知道	不知道
+47	N/A	N/A	N/A	N/A	N/A	Churchill	斯大林,Roosevelt	不知道	Jan1	Ming	80	Xi'an	Beijing,Nanjing,Luoyang,开封	France	70	Shang	Xia,Zhou,Chunqiuzhanguo	不知道	30	die	ba	temple	posthumous	UK	Germany,US,SovietUnion	ZuoZhuan	60	yan	yi
+48	N/A	N/A	N/A	N/A	N/A	不知道	Churchill	Jan1	Jan1,Dec25	Ming	Tang,Song,Qing,秦	Luoyang	Luoyang,Xi'an,Nanjing	France	UK,意大利,Germany	Xia	Xia,Shang	ZhaoYun	ZhangFei,GuanYu	不知道	不知道	temple	temple,posthumous	不知道	不知道	ZuoZhuan	Shiji,Chunqiu	不知道	不知道
+49	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	不知道	不知道	不知道	Luoyang	Nanjing	不知道	France	Zhou	Xia	ZhaoYun	ZhaoYun,GuanYu	fu	zun,fu	temple	Nianhao	Germany	俄罗斯	ZuoZhuan	Shiji,Chunqiu,ZuoZhuan,战国策,国语	yan	yi
+50	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Jan1	不知道	Ming	Ming	Nanjing	Beijing,杭州	丹麦	意大利	Qin	不知道	ZhaoYun	GuanYu	fu	fu	posthumous	不知道	US	UK,Germany,France	ZuoZhuan	Shiji	yan	yi,zhao,rui
+51	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,不知道	Mar1	Mar1,Jan1	Qing	Ming	Nanjing	Nanjing,Xi'an	UK	China,Germany,Netherlands	Zhou	Xia,Shang,Zhou	ZhaoYun	HuangZhong,GuanYu,ZhangFei	kao	先	不知道	不知道	UK	US	不知道	Shiji	yan	zhao
+52	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt	Dec25	Jan1	不知道	不知道	Nanjing	Xi'an,Luoyang	France	France	Zhou	Qin	ZhaoYun	ZhaoYun；MaChao	ye2	fu	posthumous	Nianhao	Germany	UK	Chunqiu	Shiji,Chunqiu	yan	yi
+53	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Jan1	Jan1	Ming	Song	Nanjing	Nanjing	France	UK	不知道	不知道	ZhaoYun	GuanYu	皇帝	die	temple	temple	不知道	不知道	ZizhiTongjian	Shiji	yan	yan
+54	N/A	N/A	N/A	N/A	N/A	Churchill	丘吉尔，尼克森	不知道	Dec25,Dec26,Jan1	Ming	Ming	Beijing	Beijing,Nanjing,开封,Luoyang	France	France	不知道	Qin,Tang	ZhaoYun	ZhaoYun	kao	kao	temple	庙号;谥号;称谓	不知道	英国;德国;美国;苏联	Chunqiu	Chunqiu	不知道	不知道
+55	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,Truman	Jan1	Jan1	Tang	Tang;Song;Ming	Nanjing	Nanjing,Luoyang,Xi'an	France	France;UK	Xia	Xia	不知道	不知道	不知道	不知道	temple	temple	UK	UK,US,Germany	Chunqiu	Chunqiu;ZuoZhuan;ZizhiTongjian	yan	yan
+56	N/A	N/A	N/A	N/A	N/A	Churchill	撒切尔,Roosevelt,戴高乐	Jan1	Dec25	Ming	Ming	Nanjing	Xi'an	France	France	不知道	Zhou	ZhaoYun	ZhaoYun	die	不知道	temple	posthumous	UK	Germany	Chunqiu	Chunqiu	yan	zhao
+57	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	12月1日	不知道	Ming	Song	金陵	Xi'an,Nanjing	France	西班牙	Han	不会	ZhaoYun	ZhaoYun	zun	die	temple	posthumous	UK	Germany	Chunqiu	国语	yan	zhao
+58	N/A	N/A	N/A	N/A	N/A	Churchill	Marshall,Truman,特朗普	不知道	不知道	Ming	Ming	Nanjing	Beijing	France	France	Xia	Qin	ZhaoYun	ZhaoYun	不知道	不知道	temple	posthumous	Germany	法	ZuoZhuan	ZizhiTongjian	yan	zhao
+59	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Dec25	Jan1	Ming	Qing	Xi'an	Beijing,Luoyang,大同	France	UK	不知道	不知道	不知道	不知道	不知道	不知道	temple	Nianhao,位号	US	UK,Germany	Chunqiu	Shiji	不知道	yi
+60	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	不知道	不知道	理科生Gucci好叭	如上	Nanjing	Xi'an,Luoyang	France	不知道哈	Xia	Zhou	出点理科题吧	ZhaoYun	ge	ge	temple	posthumous	SovietUnionUS		ZizhiTongjian	Shiji	yan	zhao
+61	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Apr1	Apr1	Ming	Ming	Nanjing	Nanjing, Beijing	France	France	不知道	不知道	ZhaoYun	关于	fu	fu,ye1	不知道	不知道	不知道	不知道	ZizhiTongjian	ZizhiTongjian	不知道	不知道
+62	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Dec25	Jan1	Ming	Qing,Tang	Nanjing	Nanjing	France	UK,Germany	Zhou	40%	不知道	不知道	ge	ba	temple	90%	UK	UK	Shiji	Shiji, ZuoZhuan, 尚书	yan	yan
+63	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt	Dec24	Jan1	Ming	0.6	Nanjing	Beijing	France	50%	Xia	Zhou	ZhaoYun	80%	不知道	不知道	不知道	不知道	UK	US	ZizhiTongjian	60%	yi	曹操
+64	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	Dec25	Jan1	Ming	Qing,Tang,Song	Nanjing	Nanjing	France	UK	Zhou	Shang	ZhaoYun	ZhangFei	die	不知道	posthumous	封号	Germany	US	Shiji	unknown	yan	yi
+65	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	不知道	不知道	Ming	Tang	Nanjing	Xi'an	France	UK	Zhou	Qin	MaChao	GuanYu	ye1	ye1,ye2	temple	不知道	Germany	不知道	ZuoZhuan	Shiji	yan	yi
+66	N/A	N/A	N/A	N/A	N/A	不知道	不知道	Apr1	Jan1,4月5日,Dec25	Qing	英国的某个时期吧…题目没说Ming白	不知道	不知道	France	不知道	Xia	Xia	不知道	不知道	zun	zun	temple	temple	不知道	不知道	Shiji	不知道	不知道	不知道
+67	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Apr1	Apr1	Ming	Ming	Nanjing	Nanjing,杭州	France	不知道	Zhou	Xia,Shang	ZhaoYun	ZhaoYun	ge	ba	temple	posthumous	UK	UK	Chunqiu	Chunqiu	yan	yan
+68	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Apr1	Dec25	Ming	Ming,Qing	Nanjing	Nanjing,Xi'an,Beijing	France	France	Xia	Xia,Qin	ZhaoYun	ZhaoYun	ye2	fu,die,ye2	temple	temple	UK	Germany,UK	Chunqiu	Chunqiu	yi	yi,yan,zhao
+69	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt	不知道	Dec31,Jan1	Ming	Ming	Nanjing	Xi'an	France	France	Xia	Qin	ZhaoYun	ZhaoYun	不知道	不知道	temple	posthumous	UK	US	Chunqiu	Chunqiu，ZuoZhuan	yan	yi
+70	N/A	N/A	N/A	N/A	N/A	不知道	华盛顿,Churchill	Jan1	Dec24	Ming	Tang,Qing	Xi'an	扬州,Nanjing,Beijing	France	UK	Xia	Qin	ZhaoYun	关飞	ge	ge	temple	posthumous	不知道	不知道	Chunqiu	Shiji	不知道	不知道
+71	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt	不知道	不知道	不知道	Ming. Qing	Nanjing	Xi'an	不知道	不知道	Qin	韩	不知道	不知道	不知道	不知道	祖父	儿子	俄罗斯	US	Chunqiu	ZuoZhuan	yi	曹操
+72	N/A	N/A	N/A	N/A	N/A	Truman	Truman	Apr1	Jan1	Ming	Song	Nanjing	Nanjing	China	France	Shang	Shang	GuanYu	ZhangFei	ge	die	temple	temple	Germany	Germany	ZuoZhuan	历记	rui	rui
+73	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	不知道	不知道	个人感觉这个题目有点问题，没有说Ming是哪一个国家的。中国大概是Ming朱元璋到Ming中前期左右。除此之外的大概记得英国的内阁是在18世纪左右，记不太Qing楚了。	如果是中国的，那么应该是70%；如果是英国的，可能是20%	Nanjing	开封	France	80%	Xia	Shang	ZhaoYun	80%	不知道	不知道	temple	posthumous	Germany	US	ZuoZhuan	30%	zhao	yi
+74	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	不知道	Jan1	Ming	Tang	Xi'an	Xi'an	France	UK	Xia	Qin	ZhaoYun	GuanYu	fu不知道		不知道	不知道	UK	US	Chunqiu	ZizhiTongjian	不知道	不知道
+75	N/A	N/A	N/A	N/A	N/A	Churchill	斯大林	Apr1	Dec25	Ming	Tang	Nanjing	长安	France	France官	Shang	Xia	ZhaoYun	ZhangFei	fu	yan,fu	temple	posthumous	UK	Germany,France	不知道	Shiji	zhao	不知道
+76	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,斯大林	不知道	不知道	Ming	Qing	Nanjing	Nanjing,Xi'an	France	UK	Zhou	Xia,Shang,Zhou	GuanYu	ZhangFei，ZhaoYun	大人	die	posthumous	不知道	Germany	Germany	ZizhiTongjian	Shiji	yan	不知道
+77	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Apr1	Apr1	Ming	元,Qing	Nanjing	Nanjing	France	France,UK	不知道	不知道	GuanYu	GuanYu,ZhangFei	不知道	不知道	temple	temple	Germany	不知道	Chunqiu	Chunqiu,ZuoZhuan,Shiji	zhao	不知道
+78	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Dec25	Dec25	Ming	Ming,Qing	Nanjing	Nanjing	France	France	陈胜	不知道	ZhaoYun	ZhaoYun	zun	堂	temple	temple	Germany	Germany	Chunqiu	不知道	yan	yan
+79	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Dec25	Dec25,Jan1	Ming	。。。	Nanjing	Nanjing	France	。。。	Qin	Qin	ZhaoYun	。。	die	ba	temple	temple	US	US	Chunqiu	。。	不知道	不知道
+80	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	不知道	Ming	0.8	Nanjing	Nanjing,Beijing,Xi'an,长安,Luoyang	France	90%	Zhou	Zhou,Shang	GuanYu	30%	不知道	不知道	temple	temple	UK	UK,	Shiji	90%	yan	yan
+81	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Dec25	Jan1	Ming	Ming	Luoyang	开封	不知道	不知道	Zhou	不知道	ZhaoYun	ZhaoYun	不知道	不知道	temple	不知道	Germany	不知道	ZuoZhuan	ZuoZhuan	zhao	不知道
+82	N/A	N/A	N/A	N/A	N/A	Churchill	赫鲁晓夫,里夫斯韦齐	Jan1	Jan1	Ming	不知道	Luoyang	长安	France	不知道	Shang	Zhou	ZhaoYun	不知道	ye2	die	temple	posthumous	UK	France	Shiji	不知道	yan	zhao
+83	N/A	N/A	N/A	N/A	N/A	不知道	不知道	不知道	Jan1	Ming	元	Luoyang	Xi'an	France	UK	Zhou	Qin	MaChao	不懂	yan	不知道	temple	posthumous	不知道	不知道	Chunqiu	ZuoZhuan	yan	zhao
+84	N/A	N/A	N/A	N/A	N/A	Churchill	Marshall	Dec26	Jan1	Tang	Ming	Nanjing	Nanjing	France	不知道	Chunqiuzhanguo不知道		HuangZhong	GuanYu	die	die	尊号	posthumous	UK	不知道	ZuoZhuan	ZizhiTongjian	不知道	不知道
+85	N/A	N/A	N/A	N/A	N/A	Truman	不知道	Apr1	Jan1	Ming	Ming	Nanjing	Nanjing,Xi'an,Beijing	不知道	France	上古	Qin	ZhaoYun	ZhaoYun	大人	fu	temple	posthumous,temple	不知道	不知道,US	ZizhiTongjian	Shiji	yan	yi
+86	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	不知道	Ming	Ming,Tang,不知道	Nanjing	Nanjing	France	不知道	Xia	Qin,Han	MaChao	GuanYu,ZhangFei,MaChao	不知道	不知道	temple	temple	UK	Germany	Chunqiu	Chunqiu	yan	yi
+87	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt,希特勒	Dec25	Jan1,10月31日,10月15日	Ming	Qing	Nanjing	Xi'an	France	还能是啥	Xia	Zhou,Shang	ZhaoYun	ZhangFei,MaChao	不知道	不知道	posthumous	不知道	UK	不知道	ZuoZhuan	ZizhiTongjian	yan	yi
+88	N/A	N/A	N/A	N/A	N/A	Churchill	华盛顿,Roosevelt	Jan1	Jan1	Ming	Qing	Nanjing	Luoyang,Xi'an	Australia	UK，France	Shang	Xia,Zhou	ZhaoYun	GuanYu	die	fu	posthumous	temple	Germany	UK,France,俄国	Shiji	不知道	zhao	guang
+89	N/A	N/A	N/A	N/A	N/A	Churchill	麦克阿瑟,斯大林	不知道	Jan1	Ming	Song,Qing	Nanjing	Beijing,Xi'an	France	UK,意大利	ChunqiuzhanguoChunqiuzhanguo		ZhaoYun	GuanYu,HuangZhong	不会	不会	temple	posthumous	Germany	France,比利时	Chunqiu	Shiji,ZizhiTongjian	yan	yi,zhao,guang
+90	N/A	N/A	N/A	N/A	N/A	Churchill	斯大林,Roosevelt	Dec25	不知道	Ming	Tang,Qing	Nanjing	长安,Luoyang	France	UK,奥地利	Xia	Shang,Zhou,Chunqiuzhanguo	ZhaoYun	HuangZhong	die	die	temple	posthumous	UK	Germany	ZizhiTongjian	ZizhiTongjian	yan	zhao
+91	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	1月7日	Dec25	Ming	Qing	Nanjing	不知道	France	UK	Shang	无	ZhaoYun	GuanYu,ZhangFei,MaChao,HuangZhong	fu	fu	爷爷	不知道	UK	France	Chunqiu	ZuoZhuan	王莽	不知道
+92	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	Jan1	Jan1	Ming	无	Nanjing	Xi'an	France	无	Xia	Zhou	ZhaoYun	无	die	不知道	temple	posthumous	Germany	France	Shiji	无	zhao	yan
+93	N/A	N/A	N/A	N/A	N/A	Churchill	Truman,斯大林,戴高乐	Dec25	1月至日	Ming	Qing	Luoyang	长安,开封	France	UK	Zhou	Xia,Shang	ZhaoYun	GuanYue	die	die	temple	posthumous	UK	France	Shiji	二十四史	yan	zhao
+94	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	Jan1	某个月1日	Ming	Tang,Song	Nanjing	Beijing	France	UK	Zhou	Xia	ZhaoYun	GuanYu,ZhangFei	不知道	不知道	曾祖父	曾祖父	UK	Germany	Chunqiu	ZuoZhuan	yan	zhao
+95	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt	不知道	不知道	Ming	Ming	Nanjing	Nanjing	France	France	Shang	Xia	ZhaoYun	ZhaoYun	不知道	不知道	temple	temple	UK	Germany	《ZizhiTongjian》	《Shiji》	yan	zhao
+96	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Dec25	Jan1	Ming	国外	Xi'an	Xi'an,Luoyang	France	UK	Xia	Xia,Qin	ZhaoYun	GuanYu	先人	zun	temple	temple	不知道	不知道	Chunqiu	Shiji	不知道	不知道
+97	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,斯大林	Jan1	不知道	Ming	Ming,Qing	Nanjing	金陵	France	France	不知道	不知道	ZhaoYun	ZhaoYun	zun	不知道	不知道	不知道	不知道	不知道	ZizhiTongjian	ZizhiTongjian	不知道	不知道
+98	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	不知道	不知道	Ming	不知道	Nanjing	Xi'an,Beijing	France	不知道	Qin	不知道	不知道	不知道	不知道	不知道	temple	不知道	US	UK	不知道	不知道	不知道	不知道
+99	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt,Marshall	Dec24	Dec24	Ming	不知道	Xi'an	不知道	France	不知道	Zhou	不知道	不知道	不知道	不知道	不知道	posthumous	称号,	不资道	不资道	Shiji	不知道	不知道	不知道
+100	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Dec25	Dec25	不会	不会	Nanjing	Nanjing	France	大家都知道吧这个	Shang	Qin	不会	不会	fu	die	temple	temple	Germany	Germany	ZizhiTongjian	不确定所以不填	yi	yi
+101	N/A	N/A	N/A	N/A	N/A	不知道	不知道	Jan1	Dec25	Ming	Ming	不知道	不知道	France	France	不知道	不知道	不知道	不知道	zun	zun	不知道	不知道	不知道	20%	三国志	Shiji	不知道	不知道
+102	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	不知道	Ming？	0.5	Nanjing	Nanjing	France	80%	ChunqiuzhanguoQin		不知道	30%	不知道	不知道	爷爷	爷爷	Germany	Germany	司马迁的那本什么	60%	不知道	不知道
+103	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Jan1	Jan1	Ming	Ming	Nanjing	Xi'an,Nanjing,Luoyang	France	France	不知道	不知道	ZhaoYun	ZhangFei	die	die	爷	不知道	不知道	不知道	ZuoZhuan	ZuoZhuan	yan	不知道
+104	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Dec25	Dec25	Ming	元,Ming,Qing	Xi'an	Beijing	France	不知道	Zhou	Tang	ZhaoYun	不知道	不知道	不知道	不知道	不知道	Germany	UK	ZuoZhuan	不知道	pi	caopi
+105	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt,斯大林,Churchill	不知道	不知道	Ming？	idk	Nanjing	Nanjing,Beijing,Xi'an	France	UK	ChunqiuzhanguoChunqiuzhanguo		ZhaoYun	ZhaoYun	不知道	不知道	不知道	不知道	UK	France,Germany	ZizhiTongjian	Shiji	不知道	不知道
+106	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,不知道	Dec25	Jan1	Sui	Sui，Tang	Nanjing	Nanjing,Beijing,不知道	France	UK，Germany，France	不知道	不知道	ZhaoYun	GuanYu，ZhangFei，HuangZhong，MaChao，ZhaoYun	ye2	die	temple	temple,不知道,posthumous,Nianhao	不知道	不知道	《ZizhiTongjian》	《ZizhiTongjian》，《Shiji》	不知道	不知道
+107	N/A	N/A	N/A	N/A	N/A	Churchill	斯大林,Roosevelt	Jan1	Dec26	Ming	Ming,不知道	Nanjing	Beijing,Xi'an	不知道	不知道	Xia	Qin	ZhaoYun	不知道,ZhaoYun	不知道	不知道	temple	posthumous	Germany	UK	Shiji	Shiji	yan	曹操,yi
+108	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	Jan1	Jan1	Ming	元,Qing	Nanjing	Xi'an	France	UK	Zhou	Xia,Shang	ZhaoYun	ZhangFei,GuanYu	die	ba	temple	posthumous	UK	Germany	ZizhiTongjian	Shiji	yan	zhao,yi
+109	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	Jan1	不知道	Ming	Song	Nanjing	Luoyang	France	UK	Zhou	Shang	ZhaoYun	MaChao	die	不知道	temple	posthumous	UK	US	Chunqiu	ZuoZhuan	zhao	yi
+110	N/A	N/A	N/A	N/A	N/A	Churchill	斯大林	Jan1	Jan1	Ming	Qing	Xi'an	Luoyang	France	UK	Shang	Qin	MaChao	ZhaoYun	不知道	ba,die	不知道	不知道	Germany	UK,US	ZizhiTongjian	Shiji	汉文帝	汉武帝
+111	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,Roosevelt,撒切尔	Dec25	Jan1,12月23日	Ming	Qing	Luoyang	Luoyang,Beijing,开封	France	UK	Qin	清	不知道	不知道	kao	die	temple	父亲,	UK	俄罗斯	不知道	Shiji	不知道	不知道
+112	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	不知道	不知道	Ming	Ming	Nanjing	Xi'an	France	France, UK	Shang	Xia,Zhou	不知道	不知道	不知道	不知道	temple	称呼	Germany	SovietUnion,UK	ZizhiTongjian	Chunqiu, Shiji	yan	yi
+113	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	不知道	不知道	Ming	Tang，Song	Nanjing	Nanjing	France	Germany，UK	Shang	Shang	ZhaoYun	MaChao	不知道	不知道	posthumous	posthumous	以色列	不知道	Chunqiu	汉书	yan	yan
+114	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill,Truman	Jan1	Jan1	Ming	Ming	Nanjing	Nanjing	France	France？	不知道	不知道	ZhaoYun	ZhaoYun	不知道	不知道	temple	temple,posthumous,不知道	不知道	SovietUnion,Germany	Chunqiu	Chunqiu	yan	zhao,yan
+115	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	不知道	不知道	Ming	Ming	Nanjing	Nanjing,Beijing	France	France	Han	Han	ZhaoYun	ZhaoYun	不知道	不知道	temple	posthumous	US	US	Chunqiu	ZuoZhuan,Chunqiu	yan	yan
+116	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Jan1	Jan1,Dec25	Ming	Ming,Qing	Nanjing	Xi'an	UK	UK	Shang	Qin	ZhaoYun	GuanYu	不知道	不知道	temple	不知道	不知道	不知道	Chunqiu	ZizhiTongjian,Shiji	不知道	不知道
+117	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Jan1	Jan1	Ming	Ming	Luoyang	Luoyang	France	不知道	Xia	Xia	ZhaoYun	ZhaoYun	不知道	不知道	posthumous	posthumous	UK	UK,US	Chunqiu	Shiji	yan	yan
+118	N/A	N/A	N/A	N/A	N/A	Churchill	Churchill	Apr1	Jan1	Ming	Ming	Nanjing	Nanjing	France	France	Zhou	Zhou	ZhaoYun	ZhaoYun	不知道	不知道	temple	temple	Germany	Germany	Chunqiu	Chunqiu	不知道	不知道
+119	N/A	N/A	N/A	N/A	N/A	Churchill	Truman	不知道	不知道	Ming	0.5	Nanjing	开封,Luoyang,Xi'an	France	60％	Xia	Qin	ZhaoYun	40％	不知道	不知道	temple	帝号,Nianhao	UK	Germany	Chunqiu	40％	yan	zhao
+120	N/A	N/A	N/A	N/A	N/A	Churchill	撒切尔	Jan1	13月32日	Ming	Qing	Nanjing	Luoyang	France	UK	Xia	Shang,Qin	ZhaoYun	GuanYu	不知道	不知道	temple	posthumous	France	Germany	Chunqiu	ZuoZhuan,Shiji	yi	yan
+121	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Dec25	不知道	Ming	Qing	Nanjing	上海	UK	France	Tang	宋	ZhaoYun	GuanYu	不知道	不知道	posthumous	名字	Germany	俄罗斯	ZizhiTongjian	Shiji	晋武帝	隋炀帝
+122	N/A	N/A	N/A	N/A	N/A	Truman	不知道	Dec25	不知道,Jan1,Dec25	Ming	汉	Xi'an	Beijing	France	毛里求斯	Zhou	Shang,Qin	ZhaoYun	GuanYu	不知道	不知道	posthumous	不知道	Germany	US	ZizhiTongjian	Shiji	不知道	不知道
+123	N/A	N/A	N/A	N/A	N/A	Churchill	不知道	Dec25	Jan1	Ming	Qing	Nanjing	Nanjing,Xi'an,Beijing,Luoyang	France	UK	Chunqiuzhanguo不知道		GuanYu	ZhaoYun	不知道	不知道	posthumous	职位	US	Germany,US,UK,日本,意大利,France	ZuoZhuan	不知道	yan	yi
+124	N/A	N/A	N/A	N/A	N/A	Churchill	Truman,Marshall	Jan1	7月1日	Ming	Ming，Qing，内阁不是日本的吗，不知道	Nanjing	杭州	不知道	UK	Xia	Shang	ZhaoYun	ZhaoYun，ZhangFei，GuanYu，刘备	不知道	不知道	temple	posthumous	UK	Germany	ZuoZhuan	ZuoZhuan，Shiji，战国策，ZizhiTongjian，尚书，	yan	zhao
+125	N/A	N/A	N/A	N/A	N/A	Churchill	Roosevelt	不知道	不知道	Ming	Song,Qing	Nanjing	Xi'an	France	UK	Zhou	Han	ZhaoYun	关于	不知道	不知道	posthumous	不知道	Germany	US	Chunqiu	ZuoZhuan	不知道	不知道
+126	N/A	N/A	N/A	N/A	N/A	不知道	不知道	不知道	不知道	Ming	Qing	不知道	不知道	France	UK	不知道	不知道	廉颇	GuanYu	不知道	不知道	不知道	不知道	不知道	不知道	ZuoZhuan	Shiji	不知道	不知道
